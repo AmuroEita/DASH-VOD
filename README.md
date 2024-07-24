@@ -1,1 +1,1 @@
-DASH VOD Server Setup Tutorial
+DASH VOD Server Setup
