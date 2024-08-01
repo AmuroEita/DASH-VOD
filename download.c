@@ -7,6 +7,8 @@
 #include <netd   
 b.h>
 
+// hkspjbqrwaxbvqkz
+    
 #define SERVER "10.120.16.220"
 #define PORT 80
 #define FILE_PATH "/file/100kb.txt"
